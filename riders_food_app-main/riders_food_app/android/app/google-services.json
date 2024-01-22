@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419290681267",
+    "project_id": "fooddeliveryapp-2fbea",
+    "storage_bucket": "fooddeliveryapp-2fbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419290681267:android:54b1c139e06fcae3dac5c6",
+        "android_client_info": {
+          "package_name": "com.adnanturgay.ridersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTdaDI2bHvWGYj9DnnprxMSuHIV7Fz9F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
